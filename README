@@ -1,2 +1,4 @@
 its a classification deeplearning algorithm with pytorch
 using pretrained ResNet50
+
+data https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray
