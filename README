@@ -1,4 +1,4 @@
-its a classification deeplearning algorithm with pytorch
+its a classification deep learning algorithm with pytorch that i prepare for my presentation lesson.
 using pretrained ResNet50
 
 data https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray
